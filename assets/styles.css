@@ -58,6 +58,7 @@ ul {
   margin-right: 20px;
   margin-top: 30px;
   justify-content: space-between;
+  color: var(--medium-grey);
 }
 
 footer { 
