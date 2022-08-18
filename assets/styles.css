@@ -49,6 +49,7 @@ p {
   color: var(--light-grey);
   font-size: 15px;
   margin-left: 20px;
+  margin-right: 20px;
 }
 
 ul {
@@ -57,8 +58,15 @@ ul {
   margin-left: 20px;
   margin-right: 20px;
   margin-top: 30px;
+  align-items: center;
   justify-content: space-between;
   color: var(--medium-grey);
+}
+
+li {
+  background-color: var(--very-dark-blue);
+  border: 10px solid var(--very-dark-blue);
+  border-radius: 50%;
 }
 
 footer { 
