@@ -20,6 +20,14 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  height: 100vh;
+  color: white;
+}
+
+main {
+  background-color: var(--dark-blue);
+  width: 50%;
+  border-radius: 5px;
 }
 
 footer { 
