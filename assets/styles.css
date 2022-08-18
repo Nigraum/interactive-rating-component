@@ -13,6 +13,15 @@
   box-sizing: border-box;
 }
 
+body {
+  background-color: var(--very-dark-blue);
+  font-family: "Overpass", sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 footer { 
   font-size: 11px; 
   text-align: center; 
