@@ -45,6 +45,12 @@ h1 {
   font-size: 20px;
 }
 
+p {
+  color: var(--light-grey);
+  font-size: 15px;
+  margin-left: 20px;
+}
+
 footer { 
   font-size: 11px; 
   text-align: center; 
