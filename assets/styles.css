@@ -30,6 +30,14 @@ main {
   border-radius: 5px;
 }
 
+.star-icon img {
+  margin: 20px;
+  width: 40px;
+  border-radius: 50%;
+  border: 10px solid var(--very-dark-blue);
+  background-color: var(--very-dark-blue);
+}
+
 footer { 
   font-size: 11px; 
   text-align: center; 
