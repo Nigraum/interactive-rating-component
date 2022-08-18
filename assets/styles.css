@@ -53,22 +53,7 @@ p {
   margin-right: 20px;
 }
 
-ul {
-  display: flex;
-  list-style: none;
-  margin-left: 20px;
-  margin-right: 20px;
-  margin-top: 30px;
-  align-items: center;
-  justify-content: space-between;
-  color: var(--medium-grey);
-}
 
-li {
-  background-color: var(--very-dark-blue);
-  border: 10px solid var(--very-dark-blue);
-  border-radius: 50%;
-}
 
 footer { 
   font-size: 11px; 
