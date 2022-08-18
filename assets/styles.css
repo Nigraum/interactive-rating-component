@@ -51,6 +51,15 @@ p {
   margin-left: 20px;
 }
 
+ul {
+  display: flex;
+  list-style: none;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 30px;
+  justify-content: space-between;
+}
+
 footer { 
   font-size: 11px; 
   text-align: center; 
