@@ -38,6 +38,13 @@ main {
   background-color: var(--very-dark-blue);
 }
 
+h1 {
+  margin-left: 20px;
+  margin-bottom: 5px;
+  font-weight: 700;
+  font-size: 20px;
+}
+
 footer { 
   font-size: 11px; 
   text-align: center; 
