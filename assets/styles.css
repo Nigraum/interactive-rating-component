@@ -85,6 +85,21 @@ p {
   color: var(--white);
 }
 
+.submit-btn {
+  cursor: pointer;
+  background-color: var(--orange);
+  color: var(--white);
+  text-align: center;
+  font-weight: 700;
+  border: none;
+  align-self: center;
+  justify-self: center;
+  width: 80vw;
+  height: 40px;
+  border-radius: 20px;
+  margin-left: 10px;
+}
+
 footer { 
   font-size: 11px; 
   text-align: center; 
