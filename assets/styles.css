@@ -17,6 +17,7 @@ body {
   background-color: var(--very-dark-blue);
   font-family: "Overpass", sans-serif;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   height: 100vh;
@@ -34,6 +35,11 @@ body {
   background-color: var(--dark-blue);
   padding: 20px;
   border-radius: 30px;
+}
+
+h1 {
+  color: var(--white);
+  font-size: 15px;
 }
 
 footer { 
