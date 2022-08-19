@@ -58,6 +58,23 @@ p {
   gap: 20px;
 }
 
+.select-btn {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.btn {
+  cursor: pointer;
+  margin-left: 10px;
+  background-color: var(--medium-grey);
+  color: var(--dark-blue);
+  text-align: center;
+  height: 6.2vh;
+  width: 14.3vw;
+  border-radius: 30px;
+  border: none;
+}
+
 footer { 
   font-size: 11px; 
   text-align: center; 
