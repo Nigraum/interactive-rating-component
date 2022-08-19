@@ -85,7 +85,7 @@ p {
   color: var(--white);
 }
 
-.submit-btn {
+.submit button {
   cursor: pointer;
   background-color: var(--orange);
   color: var(--white);
@@ -100,7 +100,7 @@ p {
   margin-left: 10px;
 }
 
-.submit-btn:focus {
+.submit button:focus {
   background-color: var(--white);
   color: var(--orange);
 }
