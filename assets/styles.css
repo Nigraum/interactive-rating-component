@@ -24,35 +24,6 @@ body {
   color: white;
 }
 
-main {
-  background-color: var(--dark-blue);
-  width: 50%;
-  height: 50%;
-  border-radius: 5px;
-}
-
-.star-icon img {
-  margin: 20px;
-  width: 40px;
-  border-radius: 50%;
-  border: 10px solid var(--very-dark-blue);
-  background-color: var(--very-dark-blue);
-}
-
-h1 {
-  margin-left: 20px;
-  margin-bottom: 5px;
-  font-weight: 700;
-  font-size: 20px;
-}
-
-p {
-  color: var(--light-grey);
-  font-size: 15px;
-  margin-left: 20px;
-  margin-right: 20px;
-}
-
 
 
 footer { 
