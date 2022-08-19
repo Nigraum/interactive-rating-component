@@ -30,6 +30,12 @@ body {
   height: 400px;
 }
 
+.star-icon {
+  background-color: var(--dark-blue);
+  padding: 20px;
+  border-radius: 30px;
+}
+
 footer { 
   font-size: 11px; 
   text-align: center; 
