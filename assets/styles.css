@@ -49,6 +49,15 @@ p {
   font-weight: 400;
 }
 
+.rating-btns {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-wrap: nowrap;
+  align-items: center;
+  gap: 20px;
+}
+
 footer { 
   font-size: 11px; 
   text-align: center; 
