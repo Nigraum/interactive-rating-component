@@ -42,6 +42,13 @@ h1 {
   font-size: 15px;
 }
 
+p {
+  color: var(--light-grey);
+  font-size: 15px;
+  padding: 20px 0;
+  font-weight: 400;
+}
+
 footer { 
   font-size: 11px; 
   text-align: center; 
