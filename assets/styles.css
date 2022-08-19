@@ -105,7 +105,7 @@ p {
   color: var(--orange);
 }
 
-.submit-window {
+.submit-page {
   background-color: var(--dark-blue);
   width: 90vw;
   flex-direction: column;
