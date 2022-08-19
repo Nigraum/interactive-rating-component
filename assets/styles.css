@@ -75,6 +75,16 @@ p {
   border: none;
 }
 
+.btn:hover {
+  background-color: var(--medium-grey);
+  color: var(--white);
+}
+
+.btn:focus {
+  background-color: var(--orange);
+  color: var(--white);
+}
+
 footer { 
   font-size: 11px; 
   text-align: center; 
