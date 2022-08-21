@@ -23,3 +23,12 @@ body {
   align-items: center;
   min-height: 100vh;
 }
+
+h1, h2 {
+  color: #fff;
+}
+
+p {
+  line-height: 1.8;
+  color: var(--light-grey);
+}
