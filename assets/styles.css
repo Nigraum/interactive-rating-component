@@ -40,3 +40,8 @@ img {
 ul {
   list-style: none;
 }
+
+ul, li, button {
+  font-family: inherit;
+  font-size: 1rem;
+}
