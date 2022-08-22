@@ -130,3 +130,7 @@ button {
 .thank-you {
   text-align: center;
 }
+
+.thank-you.hidden {
+  display: none;
+}
