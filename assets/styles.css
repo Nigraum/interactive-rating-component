@@ -107,3 +107,11 @@ button {
   background-color: var(--dark-blue);
   margin-bottom: 2rem;
 }
+
+.container h1, .thank-you h2 {
+  margin-bottom: 1rem;
+}
+
+.container p, .thank-you p {
+  margin-bottom: 1rem;
+}
