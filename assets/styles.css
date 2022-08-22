@@ -115,3 +115,10 @@ button {
 .container p, .thank-you p {
   margin-bottom: 1rem;
 }
+
+.container ul {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+}
