@@ -134,3 +134,7 @@ button {
 .thank-you.hidden {
   display: none;
 }
+
+.thank-you h2 {
+  margin-top: 2rem;
+}
