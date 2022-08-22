@@ -101,3 +101,9 @@ button {
   border-radius: 0.625rem;
 }
 
+.container img {
+  padding: 0.8rem;
+  border-radius: 50%;
+  background-color: var(--dark-blue);
+  margin-bottom: 2rem;
+}
