@@ -32,3 +32,7 @@ p {
   line-height: 1.8;
   color: var(--light-grey);
 }
+
+img {
+  max-width: 100%;
+}
