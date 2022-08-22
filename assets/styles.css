@@ -64,5 +64,9 @@ button {
 }
 
 .btn:hover {
+  background-color: var(--light-grey);
+}
+
+.btn:focus {
   background-color: var(--orange);
 }
