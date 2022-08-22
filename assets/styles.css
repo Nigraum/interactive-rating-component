@@ -50,3 +50,9 @@ button {
   user-select: none;
   cursor: pointer;
 }
+
+.btn {
+  background-color: var(--dark-blue);
+  width: 3rem;
+  height: 3rem;
+}
