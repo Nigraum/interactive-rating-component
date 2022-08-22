@@ -84,3 +84,8 @@ button {
   letter-spacing: 0.2rem;
   font-size: 0.9rem;
 }
+
+.btn-submit:hover {
+  background-color: #fff;
+  color: var(--orange);
+}
