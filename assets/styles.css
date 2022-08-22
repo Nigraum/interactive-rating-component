@@ -89,3 +89,15 @@ button {
   background-color: #fff;
   color: var(--orange);
 }
+
+.container, .thank-you {
+  background-image: linear-gradient(
+    to bottom,
+    hsl(212, 18%, 14%),
+    hsl(220, 16%, 11%)
+  );
+  max-width: 400px;
+  padding: 2rem 1.5rem;
+  border-radius: 0.625rem;
+}
+
