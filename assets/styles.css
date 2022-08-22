@@ -70,3 +70,17 @@ button {
 .btn:focus {
   background-color: var(--orange);
 }
+
+.btn-submit {
+  background-color: var(--orange);
+  padding: 0.625rem 2rem 0.5rem;
+  width: 100%;
+  border: none;
+  border-radius: 30px;
+  color: #fff;
+  margin-top: 2rem;
+  transition: 0.3s;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+  font-size: 0.9rem;
+}
