@@ -9,7 +9,7 @@ submitButton.addEventListener("click", () => {
   mainContainer.style.display = "none"
   thanksContainer.classList.remove("hidden")
 
-  rating.forEach((rating) => {
+  ratings.forEach((rating) => {
     rating.addEventListener("click", () => {
       actualRating.innerHTML = rating.innerHTML
     })
