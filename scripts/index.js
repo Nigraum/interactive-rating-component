@@ -5,4 +5,13 @@ const rateAgain = document.getElementById("rate-again")
 const ratings = document.querySelectorAll(".btn")
 const actualRating = document.getElementById("rating")
 
+submitButton.addEventListener("click", () => {
+  mainContainer.style.display = "none"
+  thanksContainer.classList.remove("hidden")
 
+  rating.forEach((rating) => {
+    rating.addEventListener("click", () => {
+      actualRating.innerHTML = rating.innerHTML
+    })
+  })
+})
