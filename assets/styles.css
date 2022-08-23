@@ -154,3 +154,8 @@ p.selected {
   align-items: center;
   justify-content: center;
 }
+
+#rating {
+  display: inline-block;
+  margin: 0 0.3rem;
+}
