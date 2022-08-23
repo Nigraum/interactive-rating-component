@@ -14,4 +14,9 @@ submitButton.addEventListener("click", () => {
       actualRating.innerHTML = rating.innerHTML
     })
   })
-})
+});
+
+rateAgain.addEventListener("click", () => {
+  mainContainer.style.display = "block"
+  thanksContainer.classList.add("hidden")
+});
